@@ -1,13 +1,13 @@
 ---
 title: "Zionisten Erhalten Text Des Britischen Versprechens"
-date: 1917-11-14
-published_at: 2024-08-05
+publishedDate: 1917-11-14
+translatedDate: 2024-08-05
 description: "In dieser Erklärung äußert die britische Regierung ihre Unterstützung für die Gründung einer nationalen Heimat für das jüdische Volk in Palästina."
-publikationen: ["The New York Times"]
+publication: "The New York Times"
 tags: ["BalfourDeklaration", "Zionismus", "Palästina", "BritischesMandat", "NaherOsten", "ErsterWeltkrieg", "ArthurBalfour", "BaronRothschild", "ChaimWeitzman", "NachumSokolow"]
-sources:
-  - name: "The Middle East (Collection of articles from New York times)"
-    link: "https://archive.owg/details/middleeast0000unse_t6f0/page/19/mode/1up"
+source:
+  name: "Archive.org - The Middle East (Seite 19)"
+  url: "https://archive.org/details/middleeast0000unse_t6f0"
 ---
 
 # Zionisten Erhalten Text Des Britischen Versprechens

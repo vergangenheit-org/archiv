@@ -1,15 +1,14 @@
-+++
-title = 'Großbritannien Bevorzugt Den Zionismus'
-date = 1917-11-09
-translated_at = 2024-08-05
-description = 'In einem offiziellen Schreiben an Lord Rothschild, einen prominenten Vertreter der zionistischen Bewegung, hat der britische Außenminister Arthur Balfour die Unterstützung der britischen Regierung für die Errichtung einer jüdischen Heimat in Palästina bekundet.'
-publikationen = ["The New York Times"]
-tags = ["BalfourDeklaration", "ArthurBalfour", "LordRothschild", "Kabinettsentscheidung", "Völkerbundmandat", "JüdischeHeimat"]
-
-[[sources]]
-name = "Erste Quelle"
-link = ""
-+++
+---
+title: "Großbritannien Bevorzugt Den Zionismus"
+publishedDate: 1917-11-09
+translatedDate: 2024-08-05
+description: "In einem offiziellen Schreiben an Lord Rothschild, einen prominenten Vertreter der zionistischen Bewegung, hat der britische Außenminister Arthur Balfour die Unterstützung der britischen Regierung für die Errichtung einer jüdischen Heimat in Palästina bekundet."
+publication: "The New York Times"
+tags: ["BalfourDeklaration", "ArthurBalfour", "LordRothschild", "Kabinettsentscheidung", "Völkerbundmandat", "JüdischeHeimat"]
+source:
+  name: "Archive.org - The Middle East (Seite 19)"
+  url: "https://archive.org/details/middleeast0000unse_t6f0"
+---
 
 # Großbritannien Bevorzugt Den Zionismus
 

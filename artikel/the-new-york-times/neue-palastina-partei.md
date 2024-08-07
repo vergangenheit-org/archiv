@@ -1,13 +1,13 @@
 ---
 title: "Neue Palästina-Partei"
-date: 1948-12-02
-published_at: 2024-08-05
+publishedDate: 1948-12-02
+translatedDate: 2024-08-05
 description: "Ein Brief an die New York Times von einer Gruppe hauptsächlich jüdischer Intellektueller, die ihre tiefe Besorgnis über den Aufstieg von Menachem Begin und seiner politischen Partei Herut in Palästina zum Ausdruck bringen. Sie argumentieren, dass die Ideologie und die Aktionen der Partei auffallende Ähnlichkeiten mit faschistischen Bewegungen aufweisen, und führen konkrete Beispiele wie das Massaker von Deir Yassin an."
-publikationen: ["The New York Times"]
+publication: "The New York Times"
 tags: ["Faschismus", "DeirYassinMassaker", "Terrorismus", "MenachemBegin"]
-sources:
-  - name: "Zeitungsartikel (englisch, gescannt, pdf)"
-    link: "https://ia600704.us.archive.org/5/items/AlbertEinsteinLetterToTheNewYorkTimes.December41948/Einstein_Letter_NYT_4_Dec_1948_text.pdf"
+source:
+  name: "Archive.org - Albert Einstein Letter to The New York Times"
+  url: "https://archive.org/details/AlbertEinsteinLetterToTheNewYorkTimes.December41948"
 authors:
   - Isidore Abramowitz
   - Hannah Arendt

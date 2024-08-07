@@ -1,13 +1,13 @@
 ---
 title: "Zionistenkongress in Basel"
-date: 1897-08-31
-published_at: 2024-08-05
+publishedDate: 1897-08-31
+translatedDate: 2024-08-05
 description: "Ein historischer Bericht über den ersten Zionistenkongress, der 1897 in Basel stattfand. Er beleuchtet Theodor Herzls Vision eines jüdischen Heimatlandes in Palästina, die Ziele der zionistischen Bewegung und die frühen Pläne für die jüdische Besiedlung."
-publikationen: ["The New York Times"]
+publication: "The New York Times"
 tags: ["Zionismus", "Zionistenkongress", "JüdischeGeschichte", "Palästina", "Hebräer", "Wiederansiedlung", "TheodorHerzl", "Kolonisierung", "Migration", "JüdischeEmigration"]
-sources:
-  - name: "The Middle East (Collection of articles from New York times)"
-    link: "https://archive.org/details/middleeast0000unse_t6f0/page/18/mode/1up"
+source:
+  name: "Archive.org - The Middle East (Seite 18)"
+  url: "https://archive.org/details/middleeast0000unse_t6f0"
 ---
 
 # Zionistenkongress in Basel
