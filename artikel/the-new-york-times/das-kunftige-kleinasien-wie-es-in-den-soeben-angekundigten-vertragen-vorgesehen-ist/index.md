@@ -6,7 +6,7 @@ description: "Die Karte illustriert den geplanten Gebietszuwachs Frankreichs und
 publication: "The New York Times"
 tags: ["Kartenanalyse", "Kleinasien", "Türkei", "Frankreich", "Großbritannien", "Syrien", "Libanon", "Armenien", "Mesopotamien", "ErsterWeltkrieg", "Kolonialismus", "GeheimeVerträge", "Machtverteilung"]
 source:
-  name: "Archive.org - The Middle East (Seite 20)"
+  name: "Archive.org - The Middle East (Seite 21)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"
 ---
 
