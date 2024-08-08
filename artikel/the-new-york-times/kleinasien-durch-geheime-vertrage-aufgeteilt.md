@@ -6,7 +6,7 @@ description: "Frankreich und Großbritannien hatten im Geheimen Pläne zur Aufte
 publication: "The New York Times"
 tags: ["Kleinasien", "Türkei", "Frankreich", "Großbritannien", "Syrien", "Libanon", "Armenien", "Mesopotamien", "Russland", "ErsterWeltkrieg", "Geheimverträge", "Kolonialismus", "NaherOsten", "Geopolitik", "WilsonPrinzipien", "Friedenskonferenz"]
 source:
-  name: "Archive.org - The Middle East (Seite 20)"
+  name: "Archive.org - The Middle East (Seite 21)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"
 ---
 
