@@ -8,6 +8,8 @@ tags: ["Kleinasien", "Türkei", "Frankreich", "Großbritannien", "Syrien", "Liba
 source:
   name: "Archive.org - The Middle East (Seite 21)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"
+authors: 
+  - "Charles A. Selden"
 ---
 
 # Kleinasien durch geheime Verträge aufgeteilt

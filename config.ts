@@ -6,10 +6,10 @@ const seoSchema = z.object({
   image: z
     .object({
       src: z.string(),
-      alt: z.string().optional()
+      alt: z.string().optional(),
     })
     .optional(),
-  pageType: z.enum(["website", "article"]).default("website")
+  pageType: z.enum(["website", "article"]).default("website"),
 });
 
 const artikel = defineCollection({
@@ -21,15 +21,16 @@ const artikel = defineCollection({
     publication: z.string(),
     tags: z.array(z.string()).default([]),
     source: z.object({ name: z.string(), url: z.string() }),
-    seo: seoSchema.optional()
-  })
+    seo: seoSchema.optional(),
+    authors: z.array(z.string()).default([]),
+  }),
 });
 
 const pages = defineCollection({
   schema: z.object({
     title: z.string(),
-    seo: seoSchema.optional()
-  })
+    seo: seoSchema.optional(),
+  }),
 });
 
 export const collections = { artikel, pages };

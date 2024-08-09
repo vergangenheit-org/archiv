@@ -8,6 +8,8 @@ tags: ["Kleinasien", "Armenien", "ArabischerAufstand", "Massaker", "Christenverf
 source:
   name: "Archive.org - The Middle East (Seite 22)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"
+authors:
+  - "Charles A. Selden"
 ---
 
 # Arabische Ambitionen bedrohen Kleinasien
