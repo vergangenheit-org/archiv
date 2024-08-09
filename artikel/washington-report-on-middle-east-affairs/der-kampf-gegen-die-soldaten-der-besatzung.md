@@ -140,7 +140,6 @@ Mein israelisches Team konnte sehen, dass mein Haken überhaupt keinen "Unfug" e
 
 ## Der Vater des Terrorismus
 
-DER VATER DES TERRORISMUS
 Das rote Licht unter dem Objektiv war angegangen. Ohne Vorrede drehte ich meine Schulter zur Kamera, schaute Begin direkt in die Augen und fragte: "Wie fühlt es sich an, angesichts all dessen, was passiert, der Vater des Terrorismus im Nahen Osten zu sein?"
 
 "Im Nahen Osten?", brüllte er in seinem dicken, karikaturhaften Akzent. "In der ganzen Welt! "Ich hatte endlich das Eis gebrochen.
