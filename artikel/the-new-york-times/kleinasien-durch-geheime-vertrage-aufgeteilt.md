@@ -4,11 +4,29 @@ publishedDate: 1919-01-03
 translatedDate: 2024-08-08
 description: "Frankreich und Großbritannien hatten im Geheimen Pläne zur Aufteilung Kleinasiens nach dem Krieg geschmiedet. Syrien, Libanon und Teile Armeniens fielen unter französischen Einfluss, während Mesopotamien unter britische Kontrolle geriet. Beide Länder betonten, lediglich unterstützen und beraten zu wollen, jedoch keine Kolonien zu errichten. Russland, zuvor ebenfalls beteiligt, war aufgrund der Revolution ausgeschieden. Die endgültigen Grenzen und Verwaltungsstrukturen sollten auf einer Friedenskonferenz festgelegt werden. Die Franzosen betonten die Übereinstimmung ihrer Pläne mit Wilsons Selbstbestimmungsgedanken."
 publication: "The New York Times"
-tags: ["Kleinasien", "Türkei", "Frankreich", "Großbritannien", "Syrien", "Libanon", "Armenien", "Mesopotamien", "Russland", "ErsterWeltkrieg", "Geheimverträge", "Kolonialismus", "NaherOsten", "Geopolitik", "WilsonPrinzipien", "Friedenskonferenz"]
+tags:
+  [
+    "Kleinasien",
+    "Türkei",
+    "Frankreich",
+    "Großbritannien",
+    "Syrien",
+    "Libanon",
+    "Armenien",
+    "Mesopotamien",
+    "Russland",
+    "ErsterWeltkrieg",
+    "Geheimverträge",
+    "Kolonialismus",
+    "NaherOsten",
+    "Geopolitik",
+    "WilsonPrinzipien",
+    "Friedenskonferenz",
+  ]
 source:
   name: "Archive.org - The Middle East (Seite 21)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"
-authors: 
+authors:
   - "Charles A. Selden"
 ---
 

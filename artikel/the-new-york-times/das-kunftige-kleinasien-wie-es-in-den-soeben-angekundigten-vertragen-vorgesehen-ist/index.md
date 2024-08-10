@@ -4,7 +4,22 @@ publishedDate: 1919-01-05
 translatedDate: 2024-08-08
 description: "Die Karte illustriert den geplanten Gebietszuwachs Frankreichs und Großbritanniens in Kleinasien. Gemäß geheimen Verträgen sollen sie Syrien, Libanon, Teile Armeniens und Mesopotamien kontrollieren."
 publication: "The New York Times"
-tags: ["Kartenanalyse", "Kleinasien", "Türkei", "Frankreich", "Großbritannien", "Syrien", "Libanon", "Armenien", "Mesopotamien", "ErsterWeltkrieg", "Kolonialismus", "GeheimeVerträge", "Machtverteilung"]
+tags:
+  [
+    "Kartenanalyse",
+    "Kleinasien",
+    "Türkei",
+    "Frankreich",
+    "Großbritannien",
+    "Syrien",
+    "Libanon",
+    "Armenien",
+    "Mesopotamien",
+    "ErsterWeltkrieg",
+    "Kolonialismus",
+    "GeheimeVerträge",
+    "Machtverteilung",
+  ]
 source:
   name: "Archive.org - The Middle East (Seite 21)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"

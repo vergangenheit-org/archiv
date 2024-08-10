@@ -4,7 +4,24 @@ publishedDate: 1919-03-13
 translatedDate: 2024-08-08
 description: "Christen, insbesondere Armenier, fallen brutalen Massakern zum Opfer. Frankreich sieht in diesen Ereignissen eine Bestätigung seiner Forderung nach einem US-Mandat für Armenien. Paris befürchtet eine panarabische Bewegung, die auf die Übernahme Kleinasiens zielt. Die Araber wenden ähnliche brutale Methoden wie einst die Türken an."
 publication: "The New York Times"
-tags: ["Kleinasien", "Armenien", "ArabischerAufstand", "Massaker", "Christenverfolgung", "Frankreich", "USA", "Mandat", "Panarabismus", "Expansionsdrang", "Türkei", "Geopolitik", "NaherOsten", "EmirFaisal", "FelixFrankfurter"]
+tags:
+  [
+    "Kleinasien",
+    "Armenien",
+    "ArabischerAufstand",
+    "Massaker",
+    "Christenverfolgung",
+    "Frankreich",
+    "USA",
+    "Mandat",
+    "Panarabismus",
+    "Expansionsdrang",
+    "Türkei",
+    "Geopolitik",
+    "NaherOsten",
+    "EmirFaisal",
+    "FelixFrankfurter",
+  ]
 source:
   name: "Archive.org - The Middle East (Seite 22)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"

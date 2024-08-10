@@ -27,6 +27,14 @@ const artikel = defineCollection({
   }),
 })
 
+const publications = defineCollection({
+  schema: z.object({
+    name: z.string(),
+    description: z.string().optional(),
+    website: z.string().url(),
+  }),
+})
+
 const pages = defineCollection({
   schema: z.object({
     title: z.string(),

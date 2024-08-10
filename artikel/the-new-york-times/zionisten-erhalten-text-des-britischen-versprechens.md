@@ -4,7 +4,19 @@ publishedDate: 1917-11-14
 translatedDate: 2024-08-05
 description: "In dieser Erklärung äußert die britische Regierung ihre Unterstützung für die Gründung einer nationalen Heimat für das jüdische Volk in Palästina."
 publication: "The New York Times"
-tags: ["BalfourDeklaration", "Zionismus", "Palästina", "BritischesMandat", "NaherOsten", "ErsterWeltkrieg", "ArthurBalfour", "BaronRothschild", "ChaimWeitzman", "NachumSokolow"]
+tags:
+  [
+    "BalfourDeklaration",
+    "Zionismus",
+    "Palästina",
+    "BritischesMandat",
+    "NaherOsten",
+    "ErsterWeltkrieg",
+    "ArthurBalfour",
+    "BaronRothschild",
+    "ChaimWeitzman",
+    "NachumSokolow",
+  ]
 source:
   name: "Archive.org - The Middle East (Seite 19)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"

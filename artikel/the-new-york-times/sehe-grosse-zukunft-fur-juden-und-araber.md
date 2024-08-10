@@ -4,7 +4,24 @@ publishedDate: 1917-12-12
 translatedDate: 2024-08-07
 description: "Bericht über eine Rede von Sir Mark Sykes in Manchester 1917, in der er die Bedeutung der Balfour-Erklärung und die Zukunft des Zionismus nach der britischen Einnahme Jerusalems diskutiert. Sykes sieht im Zionismus eine Chance zur Verbesserung der Stellung der Juden weltweit und betont die Notwendigkeit einer Zusammenarbeit zwischen Juden, Armeniern und Arabern. Er warnt vor möglichen Konflikten, insbesondere in Bezug auf arabische Befürchtungen, und ruft zu Verständnis und Kooperation auf. Sykes betont die Sensibilität Jerusalems als heilige Stätte dreier Religionen und sieht im Zionismus das Potenzial für Versöhnung, warnt aber auch vor den Risiken bei falscher Umsetzung."
 publication: "The New York Times"
-tags: ["Zionismus", "BalfourDeklaration", "MarkSykes", "Jerusalem", "BritischesMandat", "JüdischArabischeBeziehungen", "ErsterWeltkrieg", "NahostPolitik", "JüdischeDiaspora", "Palästina", "OsmanischesReich", "BritischeAußenpolitik", "ReligiöseKoexistenz", "Kolonialismus", "JüdischeNationalbewegung"]
+tags:
+  [
+    "Zionismus",
+    "BalfourDeklaration",
+    "MarkSykes",
+    "Jerusalem",
+    "BritischesMandat",
+    "JüdischArabischeBeziehungen",
+    "ErsterWeltkrieg",
+    "NahostPolitik",
+    "JüdischeDiaspora",
+    "Palästina",
+    "OsmanischesReich",
+    "BritischeAußenpolitik",
+    "ReligiöseKoexistenz",
+    "Kolonialismus",
+    "JüdischeNationalbewegung",
+  ]
 source:
   name: "Archive.org - The Middle East (Seite 19)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"

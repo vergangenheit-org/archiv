@@ -4,7 +4,36 @@ publishedDate: 1919-01-02
 translatedDate: 2024-08-08
 description: "Frankreich erhob nach dem Ersten Weltkrieg weitreichende Ansprüche in Kleinasien. Gestützt auf historische Verträge und Absprachen mit Großbritannien beanspruchte Paris eine führende Rolle in Armenien, Syrien und Libanon. Während Frankreich ein Mandat anstrebte, forderte Armenien hingegen vollständige Unabhängigkeit. Palästina sollte international verwaltet werden. Die USA wurden als potenzieller Unterstützer Armeniens ins Spiel gebracht. Der Artikel zeigt die komplexen Machtansprüche in der Region und die schwierige Suche nach einer neuen Ordnung."
 publication: "The New York Times"
-tags: ["ErsterWeltkrieg", "Nahost", "Frankreich", "Armenien", "Syrien", "Libanon", "Palästina", "Türkei", "Mächtepolitik", "Kolonialismus", "Mandate", "Friedensverhandlungen", "Nationalismus", "Kleinasien", "OsmanischesReich", "Kapitulationen", "Protektorat", "Völkerbund", "Armenierfrage", "Nahostkonflikt", "Minderheiten", "HumanitäreHilfe", "Selbstbestimmung", "NubarPascha", "StephenPichon", "VersaillerVertrag", "SykesPicotAbkommen"]
+tags:
+  [
+    "ErsterWeltkrieg",
+    "Nahost",
+    "Frankreich",
+    "Armenien",
+    "Syrien",
+    "Libanon",
+    "Palästina",
+    "Türkei",
+    "Mächtepolitik",
+    "Kolonialismus",
+    "Mandate",
+    "Friedensverhandlungen",
+    "Nationalismus",
+    "Kleinasien",
+    "OsmanischesReich",
+    "Kapitulationen",
+    "Protektorat",
+    "Völkerbund",
+    "Armenierfrage",
+    "Nahostkonflikt",
+    "Minderheiten",
+    "HumanitäreHilfe",
+    "Selbstbestimmung",
+    "NubarPascha",
+    "StephenPichon",
+    "VersaillerVertrag",
+    "SykesPicotAbkommen",
+  ]
 source:
   name: "Archive.org - The Middle East (Seite 22)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"

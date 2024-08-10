@@ -4,7 +4,20 @@ publishedDate: 1915-02-02
 translatedDate: 2024-08-05
 description: "Der Artikel berichtet über die prekäre Lage der jüdischen Kolonisten in Palästina im Jahr 1915. Die Situation verschärft sich durch die zunehmenden Spannungen zwischen der jüdischen Bevölkerung und dem Osmanischen Reich. Die türkische Regierung unternimmt aktive Schritte, um den Zionismus als antitürkische Bewegung darzustellen und zu unterdrücken."
 publication: "The New York Times"
-tags: ["ErsterWeltKrieg", "OsmanischesReich", "Palästina", "Zionismus", "NaherOsten", "TürkischeHerrschaft", "Flüchtlingskrise", "AngloPalästinaBank", "Jabotinsky", "Jerusalem", "Kolonialismus"]
+tags:
+  [
+    "ErsterWeltKrieg",
+    "OsmanischesReich",
+    "Palästina",
+    "Zionismus",
+    "NaherOsten",
+    "TürkischeHerrschaft",
+    "Flüchtlingskrise",
+    "AngloPalästinaBank",
+    "Jabotinsky",
+    "Jerusalem",
+    "Kolonialismus",
+  ]
 source:
   name: "Archive.org - The Middle East (Seite 19)"
   url: "https://archive.org/details/middleeast0000unse_t6f0"

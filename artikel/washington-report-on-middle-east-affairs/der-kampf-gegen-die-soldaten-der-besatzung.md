@@ -1,14 +1,52 @@
 ---
-title: "Der Kampf gegen die \"Soldaten der Besatzung\""
+title: 'Der Kampf gegen die "Soldaten der Besatzung"'
 publishedDate: 1991-07-12
 translatedDate: 2024-08-09
 description: "In seinen persönlichen Erinnerungen an Israel liefert Russell Warren Howe eine kritische Analyse der israelischen Politik und Identität. Basierend auf seinen Begegnungen mit führenden Persönlichkeiten wie Ben-Gurion und Meir zeichnet Howe ein Bild eines Staates, der sich zunehmend von seinen ursprünglichen Idealen entfernt hat. Er vergleicht die Behandlung der Palästinenser mit der Apartheid in Südafrika und wirft Israel vor, eine europäische Kolonie in Asien zu sein. Howe hinterfragt insbesondere den Zionismus und die Frage, ob Israel eine jüdische oder eine europäische Nation ist. Ein zentraler Punkt seiner Kritik ist die israelische Besatzungspolitik und die damit verbundene Verletzung der Menschenrechte der Palästinenser. Howe betont die Rolle Israels als maßgeblichen Akteur im Nahostkonflikt und stellt die Legitimität dieser Rolle in Frage."
 publication: "Washington Report on Middle East Affairs"
-tags: ["IsraelPalästinaKonflikt", "Nahostkonflikt", "Zionismus", "Besatzung", "Kolonialismus", "Menschenrechte", "Politik", "Geschichte", "RussellWarrenHowe", "BenGurion", "GoldaMeir", "Palästinenser", "Juden", "Christen", "Europa", "Asien", "Südafrika", "Apartheid", "Terrorismus", "Medien", "Journalismus", "Israel", "Palästina", "NaherOsten", "Europa", "Afrika", "USA", "Kritik", "Analyse", "Meinung", "Perspektive", "Erinnerung", "Biografie", "Historisch", "Aktuell", "Kontrovers"]
+tags:
+  [
+    "IsraelPalästinaKonflikt",
+    "Nahostkonflikt",
+    "Zionismus",
+    "Besatzung",
+    "Kolonialismus",
+    "Menschenrechte",
+    "Politik",
+    "Geschichte",
+    "RussellWarrenHowe",
+    "BenGurion",
+    "GoldaMeir",
+    "Palästinenser",
+    "Juden",
+    "Christen",
+    "Europa",
+    "Asien",
+    "Südafrika",
+    "Apartheid",
+    "Terrorismus",
+    "Medien",
+    "Journalismus",
+    "Israel",
+    "Palästina",
+    "NaherOsten",
+    "Europa",
+    "Afrika",
+    "USA",
+    "Kritik",
+    "Analyse",
+    "Meinung",
+    "Perspektive",
+    "Erinnerung",
+    "Biografie",
+    "Historisch",
+    "Aktuell",
+    "Kontrovers",
+  ]
 source:
   name: "Washington Report on Middle East Affairs, July 1991, Page 35"
   url: "https://www.wrmea.org/1991-july/fighting-the-soldiers-of-occupation-from-wwii-to-the-intifada.html"
-authors: 
+authors:
   - "Russell Warren Howe"
 ---
 
