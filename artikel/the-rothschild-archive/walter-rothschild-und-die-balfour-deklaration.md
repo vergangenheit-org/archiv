@@ -1,10 +1,35 @@
 ---
 title: "Walter Rothschild und die Balfour-Deklaration"
-publishedDate: 2010-01-01
+publishedDate: 2010-01
+publishedPrecision: month
 translatedDate: 2024-08-09
 description: "Die Balfour-Deklaration, ein entscheidender Schritt zur Gründung Israels, wurde 1917 von Arthur Balfour an Lionel Walter Rothschild gerichtet. Dieser Brief markierte einen Wendepunkt in der Geschichte des jüdischen Volkes, indem er die britische Unterstützung für die Errichtung einer jüdischen Heimat in Palästina zusicherte. Ab 1916 hofften die Briten, dass “die Juden” im Gegenzug für ihre Unterstützung des Zionismus dazu beitragen würden, die wachsenden Kosten des Ersten Weltkriegs zu finanzieren, der immer mehr zur Belastung wurde. Vor allem aber glaubten die Entscheidungsträger im Außenministerium, dass die Juden dazu gebracht werden könnten, die Vereinigten Staaten zum Kriegseintritt zu bewegen."
 publication: "The Rothschild Archive"
-tags: ["WalterRothschild", "ArthurBalfour", "ChaimWeizmann", "DavidLloydGeorge", "BalfourDeklaration", "Zionismus", "Palästina", "Großbritannien", "Judentum", "ErsterWeltkrieg", "Geschichte", "Diplomatie", "Politik", "Nahost", "BritischesMandat", "JüdischeHeimstätte", "Araber", "ChristlicherZionismus", "StaatsgründungIsrael", "HistorischeDokumente", "Außenpolitik", "Völkerrecht"]
+tags:
+  [
+    "WalterRothschild",
+    "ArthurBalfour",
+    "ChaimWeizmann",
+    "DavidLloydGeorge",
+    "BalfourDeklaration",
+    "Zionismus",
+    "Palästina",
+    "Großbritannien",
+    "Judentum",
+    "ErsterWeltkrieg",
+    "Geschichte",
+    "Diplomatie",
+    "Politik",
+    "Nahost",
+    "BritischesMandat",
+    "JüdischeHeimstätte",
+    "Araber",
+    "ChristlicherZionismus",
+    "StaatsgründungIsrael",
+    "HistorischeDokumente",
+    "Außenpolitik",
+    "Völkerrecht",
+  ]
 source:
   name: "The Rothschild Archive"
   url: "https://web.archive.org/web/20240505152121/https://www.rothschildarchive.org/family/family_interests/walter_rothschild_and_the_balfour_declaration"
@@ -32,15 +57,16 @@ Das Original des Briefes wurde 1924 von Lionel Walter, 2. Lord Rothschild, der B
 <div class="bg-gray-200 dark:bg-gray-800 px-4 pt-4 pb-1 rounded-lg">
   Auswärtiges Amt,<br>2. November 1917.
 
-  Lieber Lord Rothschild,
+Lieber Lord Rothschild,
 
-  es ist mir eine große Freude, Ihnen im Namen der Regierung Seiner Majestät die folgende Erklärung der Solidarität mit den zionistischen Bestrebungen der Juden zu übermitteln, die dem Kabinett vorgelegt und von diesem genehmigt worden ist:
+es ist mir eine große Freude, Ihnen im Namen der Regierung Seiner Majestät die folgende Erklärung der Solidarität mit den zionistischen Bestrebungen der Juden zu übermitteln, die dem Kabinett vorgelegt und von diesem genehmigt worden ist:
 
-  "Die Regierung Seiner Majestät betrachtet die Errichtung einer nationalen Heimstätte für das jüdische Volk in Palästina mit Wohlwollen und wird sich nach besten Kräften bemühen, die Verwirklichung dieses Ziels zu erleichtern, wobei klar ist, dass nichts unternommen werden darf, was die bürgerlichen und religiösen Rechte der bestehenden nichtjüdischen Gemeinschaften in Palästina oder die Rechte und den politischen Status der Juden in irgendeinem anderen Land beeinträchtigen könnte".
+"Die Regierung Seiner Majestät betrachtet die Errichtung einer nationalen Heimstätte für das jüdische Volk in Palästina mit Wohlwollen und wird sich nach besten Kräften bemühen, die Verwirklichung dieses Ziels zu erleichtern, wobei klar ist, dass nichts unternommen werden darf, was die bürgerlichen und religiösen Rechte der bestehenden nichtjüdischen Gemeinschaften in Palästina oder die Rechte und den politischen Status der Juden in irgendeinem anderen Land beeinträchtigen könnte".
 
-  Ich wäre Ihnen dankbar, wenn Sie diese Erklärung der Zionistischen Föderation zur Kenntnis bringen würden.
+Ich wäre Ihnen dankbar, wenn Sie diese Erklärung der Zionistischen Föderation zur Kenntnis bringen würden.
 
-  Mit freundlichen Grüßen
+Mit freundlichen Grüßen
 
-  Arthur James Balfour
+Arthur James Balfour
+
 </div>
