@@ -27,7 +27,7 @@ const artikel = defineCollection({
   }),
 })
 
-const publications = defineCollection({
+const publikationen = defineCollection({
   schema: z.object({
     name: z.string(),
     description: z.string().optional(),
@@ -42,4 +42,4 @@ const pages = defineCollection({
   }),
 })
 
-export const collections = { artikel, pages }
+export const collections = { artikel, publikationen, pages }
