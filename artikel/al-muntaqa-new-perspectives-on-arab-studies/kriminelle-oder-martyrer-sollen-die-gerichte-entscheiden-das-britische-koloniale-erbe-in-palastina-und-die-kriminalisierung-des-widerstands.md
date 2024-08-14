@@ -5,7 +5,47 @@ publishedPrecision: month
 translatedDate: 2024-08-14
 description: "Dieser Artikel zeigt anhand eines Beispiels aus der wechselhaften Geschichte der Mandatszeit in Palästina (1919-1948), wie das politische Erbe der Kolonisierung Palästinas teilweise die Grundlage für das „Strafrecht“ und seine Verwendung als Instrument in diesem Prozess der Konstruktion der Matrix der kolonialen Herrschaft in Palästina gebildet hat. Nach dem Aufstand an der Klagemauer im Jahr 1929 führten die Briten ein neues Rechtsverfahren ein, um ihre Kontrolle über Palästina zu bewahren und den arabischen Widerstand gegen ihre Herrschaft zu brechen. In diesem Artikel wird erläutert, wie die Briten während ihrer kolonialen Amtszeit unter dem Mandat Palästina ein System von Gesetzen und Rechtsverfahren schufen, das sowohl reaktionär als auch grundlegend für alles Folgende war, sowohl im Kontext der britischen Präsenz in Palästina als auch in Bezug darauf, wie diese relativ kurze koloniale Amtszeit weit über ihre historische Dauer hinaus wirkte. Durch eine genaue Analyse der britischen Methoden und Verfahren, die damals Teil einer konzertierten Aktion zur Kontrolle eines strategischen kolonialen Vorpostens waren, zeigt dieser Artikel, wie das Recht als Mittel der Kontrolle manipuliert wurde und in der Folge zum endgültigen Scheitern ihrer Herrschaft beitrug. In dem Bestreben, eine nationale Bewegung zu unterdrücken, manipulierten die Briten ihre eigene Version eines lokalisierten Justizsystems und schufen einen Kriminalisierungsprozess, der fast ein Jahrhundert später immer noch als wichtiges Mittel der Kontrolle über die einheimische palästinensisch-arabische Bevölkerung eingesetzt wird."
 publication: "Al-Muntaqa: New Perspectives on Arab Studies"
-tags: []
+tags:
+  - Kolonialismus
+  - Palästina
+  - Geschichte
+  - Recht
+  - Justiz
+  - Widerstand
+  - Identität
+  - Erinnerungskultur
+  - BritischesMandat
+  - BuraqAufstand
+  - Strafrecht
+  - Todesstrafe
+  - PolitischeJustiz
+  - Zionismus
+  - ArabischerNationalismus
+  - Postkolonialismus
+  - Dekolonisierung
+  - Erinnerung
+  - Geschichtswissenschaft
+  - BritischerKolonialismusPalästina
+  - PalästinensischerWiderstand
+  - KriminalisierungDesWiderstands
+  - KolonialeJustiz
+  - ShawKommission
+  - JohnChancellor
+  - Todesstrafe
+  - Märtyrer
+  - ArabischerAufstand
+  - PolitischeGefangene
+  - Menschenrechtsverletzungen
+  - Rechtsgeschichte
+  - Nahostgeschichte
+  - PostkolonialeStudien
+  - IsraelischPalästinensischerKonflikt
+  - Machtverhältnisse
+  - HistorischeAnalyse
+  - Fallstudie
+  - Rechtsanalyse
+  - Politikwissenschaft
+  - InternationaleBeziehungen
 source:
   name: "JSTOR"
   url: "https://www.jstor.org/stable/10.31430/almuntaqa.1.1.0084"
@@ -119,21 +159,19 @@ Auch wenn diese Episode nur ein kleiner Teil der palästinensischen Geschichte i
 [^32]: „Ein Weg zum Frieden?“, al-Karmil, 14. September 1929
 [^33]: Der achte Prozess gegen einen einzigen jüdischen Verdächtigen, der mit der Todesstrafe geahndet wurde, war der Fall von Yusuf Mizrahi Orfali. Während sein Fall noch anhängig war, als die drei Araber hingerichtet wurden, reduzierte Chancellor später seine Anklage, bevor sein Berufungsverfahren abgeschlossen war.
 [^34]: Abschrift des Prozesses gegen Ahmad Jaber al-Khatib, Aref Tawfiq Ighnaym und Nayef Tawfiq Ighnaym vor dem Strafgerichtshof (18. Oktober 1929), S. 31 - 63. TNA/CO 733/181/3.
-[^35]: Ibid., S. 62.
+[^35]: Ebd., S. 62.
 [^36]: Dies war der einzige Prozess, der ohne mehrere Angeklagte geführt wurde, die ursprünglich vor dem Strafgerichtshof unter der Entscheidung der Richter Corrie und Litt angeklagt waren, die den Angeklagten des vorsätzlichen Mordes für schuldig befanden und ihn am 5. November 1929 gemäß Artikel 170 des osmanischen Strafgesetzbuches und Abschnitt 3(1)(b) und Abschnitt 9 der Strafrechtsänderungsverordnung Nr. 2 von 1927 zum Tode verurteilten. Diese Entscheidung wurde am 2. Dezember vom Obersten Gerichtshof von Palästina bestätigt.
 [^37]: TNA/CO 733/180/6, S. 56-61, aus dem Text des Antrags der Verteidigung an den Privy Council
 [^38]: Ebd.
 [^39]: TNA/CO 733/180/6, S. 48-51. Im Fall Rashid Salim Haj Darwish, Mohammad Salim Zeinab, Fuad Hassan Hijazi, Jamal Salim Khloi, Ali Salim Haj Darwish, Tawfiq Abeid Ahmad, Rashid Mohammad Khartabil und Ahmed Saleh Kilani gegen den Generalstaatsanwalt - verurteilt wegen Mordes mit der Todesstrafe am 29. November, 1929 durch den Court of Criminal Assize (bestehend aus den Richtern Corrie und Litt) und am 10. Februar 1930 durch den Supreme Court (bestehend aus den Richtern Sir Michael McDonnell, FH Baker und R. Copeland).
-[^40]: Ibid, Seiten 69 - 74. In der Rechtssache Abdul Jawad Farah und Ata Ahmad al-Zir gegen den Generalstaatsanwalt - verurteilt und zum Tode verurteilt vom Criminal Court of Assize (bestehend aus Chief Justice Sir Michael McDonnell und Justice De Freitas) am 9. November 1929 und bestätigt vom Supreme Court (bestehend aus Senior Puisne Judge, Justice Corrie, und Justices Tute und Copland) am 5. Dezember 1929.
+[^40]: Ebd, Seiten 69 - 74. In der Rechtssache Abdul Jawad Farah und Ata Ahmad al-Zir gegen den Generalstaatsanwalt - verurteilt und zum Tode verurteilt vom Criminal Court of Assize (bestehend aus Chief Justice Sir Michael McDonnell und Justice De Freitas) am 9. November 1929 und bestätigt vom Supreme Court (bestehend aus Senior Puisne Judge, Justice Corrie, und Justices Tute und Copland) am 5. Dezember 1929.
 [^41]: TNA/CO 733/180/7, Abschrift der Sitzung des Privy Council vom 28. März 1930, Berufungen für Ahmed Jabir al-Khatib und andere; Ahmed Mustafa Sherifi und andere; Rashid Salim Haj Darwish und andere; Mustafa Ahmed Deiblis; Abdul Jawad Farah und andere (5 der 7 Fälle, in denen Araber die Todesstrafe erhielten). (Für die Petenten: DN Pritt, Horace Douglas und Abacarius Bey.)
-[^42]: Ibid. Der Bruch mit dem historischen Recht des Landes ähnelte den Auseinandersetzungen um die Kontrolle der Mauer und die richtige Anwendung des Status quo, die die früheren Phasen des Buraq-Moments beherrschten. Die Befürworter der Verteidigung argumentierten, dass die historischen Rechte der lokalen Bevölkerung in jeder Phase dieses Prozesses verweigert wurden.
-[^43]: Ibid., S. 36.
+[^42]: Ebd. Der Bruch mit dem historischen Recht des Landes ähnelte den Auseinandersetzungen um die Kontrolle der Mauer und die richtige Anwendung des Status quo, die die früheren Phasen des Buraq-Moments beherrschten. Die Befürworter der Verteidigung argumentierten, dass die historischen Rechte der lokalen Bevölkerung in jeder Phase dieses Prozesses verweigert wurden.
+[^43]: Ebd., S. 36.
 [^44]: Ebd.
 [^45]: Ebd., S. 41 - 47.
 [^46]: Die Gerichte bestätigten die Urteile für folgende Araber in Hebron: Abd al-Jawad Hussein Farah, Ata Ahmad al-Zir, Isa al-Arafi, Shaker Mahmoud Halwani, Shukri Mahmoud Halwani, Mohammad Khalil Abu Jamjoum, Abbas Nasir al-Din, Abd al-Shakour Sharabati, Abd al-Hafiz Abd al-Nabi Ajuri, Shihdah Awaydah; und für folgende Araber in Safad: Ahmed Jaber Khatib, Aref Tawfiq Ighnaym, Nayaf Tawfiq Ighnaym, Fuad Hassan Hijazi, Mohammad Abd al-Ghani Hijazi, Tawfiq Obayd Ahmad, Ahmad Salah Killani, Rashid Salim Haj Darwish, Mohammad Salim Zaynab, Jamal Salim Kholi, Ali Salim Haj Darwish, Rashid Mohammad Khartabil, Mustafa Ahmad Diblis, Ahmed Mustafa Sherifah. (TNA/CO 733/181/4.)
-
 [^47]: Bericht der Kommission über die Unruhen in Palästina im August 1929, Cmd. 3530.
-
 [^48]: Brief von Musa Kazim an Passfield, 19. April 1930, S. 52-55. TNA/CO 733/180/7.
 [^49]: Brief von Passfield an Chancellor, 17. April 1930, S. 128. TNA/CO 733/180/7.
 [^50]: Ebd.
