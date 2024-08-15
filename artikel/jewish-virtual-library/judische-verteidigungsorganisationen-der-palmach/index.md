@@ -14,6 +14,7 @@ tags:
   - Zionismus
   - MilitärgeschichteIsraels
   - DavidBenGurion
+  - BenGurion
   - JüdischerWiderstand
 source:
   name: "Jewish Virtual Library"
