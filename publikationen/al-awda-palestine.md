@@ -1,6 +1,6 @@
 ---
 name: "Al-Awda Palestine"
-description: "The organization is dedicated to advocating for the human and legal rights of Palestinian refugees. They plan to achieve this by informing the public and policymakers about the ongoing crisis, forging partnerships with other organizations and elected officials, and directly assisting refugees. Through these efforts, they hope to empower refugees and create a pathway towards justice and return."
+description: "Die Organisation hat es sich zur Aufgabe gemacht, sich für die Menschenrechte und die gesetzlichen Rechte der palästinensischen Flüchtlinge einzusetzen. Dies soll erreicht werden, indem die Öffentlichkeit und die politischen Entscheidungsträger über die anhaltende Krise informiert werden, Partnerschaften mit anderen Organisationen und gewählten Vertretern geschlossen werden und den Flüchtlingen direkt geholfen wird. Durch diese Bemühungen hoffen sie, die Flüchtlinge zu stärken und einen Weg zu Gerechtigkeit und Rückkehr zu schaffen."
 website: "https://al-awdapalestine.org"
 ---
 
