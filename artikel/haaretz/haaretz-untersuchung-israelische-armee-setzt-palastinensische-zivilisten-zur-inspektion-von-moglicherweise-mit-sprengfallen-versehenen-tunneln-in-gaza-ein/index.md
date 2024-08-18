@@ -83,8 +83,7 @@ Die Amerikaner sind wütend, obwohl Vedant Patel, ein Sprecher des Außenministe
 
 Der Soldat sagte, dass in der IDF „sie wissen, dass es sich nicht um einen einmaligen Vorfall eines jungen und dummen Kompaniechefs handelt, der von sich aus beschließt, jemanden mitzunehmen.“
 
-https://www.youtube.com/watch?v=7CfmBlu-qo4
-Das von Al Jazeera veröffentlichte Filmmaterial
+::youtube[Das von Al Jazeera veröffentlichte Filmmaterial]{#7CfmBlu-qo4.w-full.aspect-video}
 
 Es gibt auch Hinweise darauf, dass in einigen Fällen Minderjährige oder ältere Menschen eingesetzt werden. „Es gab Zeiten, in denen wirklich alte Menschen in Häuser hineingebracht wurden“, sagte ein Kampfsoldat. Wenn der Palästinenser Hebräisch kann, ist das ein Vorteil für die IDF; wenn Palästinenser in Gebäuden und Tunneln eingesetzt werden, müssen sie sich bei den Streitkräften draußen melden.
 
