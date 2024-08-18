@@ -1,6 +1,6 @@
 ---
 title: "Jerusalemer Abkommen 1940"
-publishedDate: 2024-08-13
+publishedDate: 1941-09-15
 translatedDate: 2024-08-18
 description: "Ein Vertrag zwischen der italienischen Regierung und einer provisorischen jüdischen Regierung. Es sieht die Gründung eines jüdischen Staates in Palästina vor, mit italienischer Unterstützung bei der Umsiedlung von Juden und militärischer Hilfe. Im Gegenzug verspricht der jüdische Staat, sich in außenpolitischen Fragen an Italien zu orientieren und auf eine eigene Luftwaffe und Marine zu verzichten. Das Abkommen beinhaltet auch Regelungen zur Kontrolle Haifas durch Italien, zur Übergabe heiliger Stätten an den Vatikan und zur wirtschaftlichen Zusammenarbeit."
 publication: "Al Jazeera"
