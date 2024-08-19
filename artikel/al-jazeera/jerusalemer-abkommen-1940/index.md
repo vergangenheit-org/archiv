@@ -32,7 +32,9 @@ authors: []
 
 # Jerusalemer Abkommen 1940
 
-::note[Die ursprüngliche Übersetzung dieses Abkommens wurde auf der Grundlage eines Dokumentarfilms von Al Jazeera geschrieben, der am 13. August 2024 veröffentlicht wurde – ["How a Zionist armed group helped create the state of Israel | Al Jazeera World Documentary"](https://www.youtube.com/watch?v=Dxawt329m8U). Aber nach weiterer Recherche habe ich jedoch eine bessere Quelle gefunden und den Text und die Quelle aktualisiert.]
+:::note
+Die ursprüngliche Übersetzung dieses Abkommens wurde auf der Grundlage eines Dokumentarfilms von Al Jazeera geschrieben, der am 13. August 2024 veröffentlicht wurde – ["How a Zionist armed group helped create the state of Israel | Al Jazeera World Documentary"](https://www.youtube.com/watch?v=Dxawt329m8U). Aber nach weiterer Recherche habe ich jedoch eine bessere Quelle gefunden und den Text und die Quelle aktualisiert.
+:::
 
 Dieses Abkommen wurde am fünfzehnten September 1940 zwischen der italienischen Regierung, vertreten durch ihre offiziellen Vertreter, im folgenden abgekürzt „Partei A“ genannt, einerseits und der provisorischen jüdischen Regierung, vertreten durch ihre offiziellen Vertreter, im folgenden abgekürzt „Partei B“ genannt, andererseits geschlossen und unterzeichnet.
 

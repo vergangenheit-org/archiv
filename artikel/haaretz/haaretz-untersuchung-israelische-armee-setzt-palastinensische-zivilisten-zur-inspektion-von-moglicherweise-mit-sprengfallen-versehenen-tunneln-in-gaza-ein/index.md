@@ -51,9 +51,9 @@ authors:
 
 # Haaretz-Untersuchung: Israelische Armee setzt palästinensische Zivilisten zur Inspektion von möglicherweise mit Sprengfallen versehenen Tunneln in Gaza ein
 
-<p class="lead">
-  „Unsere Leben sind wichtiger als ihre Leben“: Gaza-Bewohner, die nicht des Terrorismus verdächtigt werden, werden verhaftet und als menschliche Schutzschilde eingesetzt, um Tunnel und Häuser zu durchsuchen, bevor die IDF-Soldaten eindringen - mit vollem Wissen hochrangiger israelischer Offiziere, wie mehrere Quellen berichten; die IDF behaupten, diese Praxis sei verboten
-</p>
+:::lead
+„Unsere Leben sind wichtiger als ihre Leben“: Gaza-Bewohner, die nicht des Terrorismus verdächtigt werden, werden verhaftet und als menschliche Schutzschilde eingesetzt, um Tunnel und Häuser zu durchsuchen, bevor die IDF-Soldaten eindringen - mit vollem Wissen hochrangiger israelischer Offiziere, wie mehrere Quellen berichten; die IDF behaupten, diese Praxis sei verboten
+:::
 
 ![Ein Gazaner in einer IDF-Uniform neben israelischen Soldaten in einem Haus in Rafah im letzten Monat. Das Foto wurde unscharf gemacht, um identifizierende Merkmale zu entfernen. Credit: David Bachar](./ein-gazaner-in-einer-idf-uniform-neben-israelischen-soldaten-in-einem-haus-in-rafah-im-letzten-monat-das-foto-wurde-unscharf-gemacht-um-identifizierende-merkmale-zu-entfernen-credit-david-bachar.webp)
 
