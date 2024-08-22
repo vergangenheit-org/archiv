@@ -24,14 +24,6 @@ jobs:
           CLOUDFLARE_BRANCH: ${{vars.CLOUDFLARE_BRANCH}}
           CLOUDFLARE_PROJECT: ${{vars.CLOUDFLARE_PROJECT}}
         run: |
-          # going into temp folder
-          cd /tmp
-          # cloning vergangenheit/archiv repo
-          git clone https://codeberg.org/vergangenheit/archiv --branch=astro
-          # going into repository folder
-          cd archiv/
-          # adding worktree branch master
-          git worktree add src/content/ master
           # installing dependencies
           devenv shell bun install
           # building the website
