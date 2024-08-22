@@ -2,33 +2,33 @@
 title: "Enthüllt Vertrag zur Verteilung der Türkei"
 publishedDate: 1919-07-06
 translatedDate: 2024-08-22
-description: "Das Dokument beschreibt Verhandlungen zwischen Frankreich und Großbritannien über die Aufteilung des Osmanischen Reiches nach dem Ersten Weltkrieg. Es wird eine klare Grenze zwischen den französischen und britischen Einflusszonen festgelegt, wobei bestimmte Gebiete an Frankreich fallen und andere unter britischer Kontrolle bleiben sollen. Beide Länder stimmen zu, dass es keine unterschiedliche Behandlung oder Begünstigung in der Frage der Hafengebühren geben soll. Die französische Regierung als Beschützerin des arabischen Staates wird Maßnahmen zur Kontrolle der Waffeneinfuhr in das arabische Gebiet in Betracht ziehen. Der Vorschlag der französischen Regierung, die arabische Konföderation unter ihren Schutz zu stellen, wird ebenfalls berücksichtigt. Die Vereinbarungen hatten weitreichende Konsequenzen für die zukünftige Entwicklung des Mittleren Ostens und bildeten die Grundlage für die spätere Gründung moderner Staaten wie Syrien und Irak."
+description: "Der Artikel enthüllt einen geheimen anglo-französischen Vertrag aus dem Jahr 1916, der die Aufteilung des Osmanischen Reiches zum Ziel hatte. Das Abkommen, das in Le Temps veröffentlicht und in einer Sonderausgabe der New York Times bestätigt wurde, legte die Einflusssphären beider Nationen nach dem Ersten Weltkrieg fest. Im Wesentlichen lieferte der Geheimvertrag einen Plan für die Aufteilung des Osmanischen Reiches nach dem Krieg und spiegelte die kolonialen Ambitionen Großbritanniens und Frankreichs wider. Das Abkommen war ein entscheidender Faktor für die Gestaltung des Nahen Ostens, wie wir ihn heute kennen."
 publication: "The New York Times"
 tags:
-  - Frankreich
-  - Großbritannien
-  - OsmanischesReich
-  - ArabischeKonföderation
-  - Bagdadbahn
+  - Clemenceau
+  - Cambon
+  - Grey
+  - ScharifVonMekka
+  - Türkei
+  - Anatolien
+  - Izmir
+  - Antalya
+  - ArabischeHalbinsel
+  - RotesMeer
   - Bagdad
   - Aleppo
   - Haifa
-  - Mosul
-  - Samara
-  - Euphrattal
-  - Syrien
-  - Irak
-  - MPaulCambon
-  - SirEdwardGrey
+  - Akko
+  - Zypern
+  - Alexandria
+  - AngloFranzösischesAbkommen
   - ErsterWeltkrieg
-  - StJeanDeMaurienne
-  - Italien
-  - PremierministerClemenceau
-  - Rußland
-  - Abkommen
-  - Freihafen
-  - Protektorat
-  - KonföderationArabischerStaaten
+  - RussischeRevolution
+  - ArabischerAufstand
+  - Kolonialismus
+  - Diplomatie
+  - Geopolitik
+  - Nahostgeschichte
 source:
   name: "The Middle East Collection (Seiten 25-26)"
   url: "https://archive.org/details/middleeast0000unse_t6f0/page/25/mode/1up"
