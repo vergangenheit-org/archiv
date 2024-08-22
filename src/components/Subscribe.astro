@@ -1,0 +1,61 @@
+---
+import Button from "./Button.astro"
+const { class: className } = Astro.props
+const render = false
+// TODO: figure out a better way of doing this
+---
+
+{
+  render && (
+    <section
+      class:list={[
+        "flex flex-col items-center border border-dashed border-main px-8 py-12 text-center sm:px-12 sm:py-16",
+        className,
+      ]}
+    >
+      <h2 class="mb-4 w-full max-w-xl font-serif text-2xl font-medium leading-tight sm:text-4xl">
+        Beim Newsletter anmelden
+      </h2>
+      <p class="mb-8 w-full max-w-xl text-sm leading-normal">
+        Ein mal pro Woche alle neuen Übersetzungen erhalten.
+      </p>
+      <form
+        method="post"
+        action="https://sendfox.com/form/1wloze/m4j8d0"
+        id="m4j8d0"
+        class="sendfox-form flex w-full max-w-xl flex-col gap-3.5 sm:flex-row"
+        data-async="true"
+        data-recaptcha="false"
+      >
+        <label for="sendfox_form_email" class="sr-only">
+          Email Adresse
+        </label>
+        <input
+          type="email"
+          id="sendfox_form_email"
+          class="h-9 w-full rounded-full border border-main bg-transparent px-5 py-2 text-sm text-main placeholder:text-main/60 focus:outline-none"
+          placeholder="Deine Email"
+          name="email"
+          required
+        />
+        <Button type="submit" name="subscribe" class="h-9 w-full sm:w-auto">
+          Anmelden
+        </Button>
+        <div style="position: absolute; left: -5000px;" aria-hidden="true">
+          <input
+            type="text"
+            name="a_password"
+            tabindex="-1"
+            value=""
+            autocomplete="off"
+          />
+        </div>
+      </form>
+      <script
+        is:inline
+        src="https://cdn.sendfox.com/js/form.js"
+        charset="utf-8"
+      />
+    </section>
+  )
+}

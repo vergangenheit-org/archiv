@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vergangenheit.org/sitemap-index.xml

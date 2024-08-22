@@ -1,0 +1,47 @@
+---
+import { ViewTransitions } from "astro:transitions"
+import BaseHead, { type Props as HeadProps } from "@components/BaseHead.astro"
+import PalestineBanner from "@components/PalestineBanner.astro"
+import Footer from "@components/Footer.astro"
+import Header from "@components/Header.astro"
+import Nav from "@components/Nav.astro"
+
+export type Props = HeadProps & { showHeader?: boolean }
+
+const { showHeader = true, ...head } = Astro.props
+const isProd = import.meta.env.PROD
+---
+
+<!doctype html>
+<html lang="en" class="antialiased break-words bg-main">
+  <head>
+    <BaseHead {...head} />
+    <script>
+      if (localStorage.theme === "dark") {
+        document.documentElement.classList.add("dark")
+      }
+    </script>
+    <ViewTransitions />
+  </head>
+  <body class="text-main">
+    <PalestineBanner />
+    <div class="flex flex-col min-h-screen px-4 md:px-8">
+      <Nav />
+      {showHeader && <Header />}
+      <main class="grow w-full max-w-3xl mx-auto hyphens-auto">
+        <slot />
+      </main>
+      <Footer />
+    </div>
+    {
+      isProd && (
+        <script
+          is:inline
+          async
+          defer
+          src="https://scripts.withcabin.com/hello.js"
+        />
+      )
+    }
+  </body>
+</html>

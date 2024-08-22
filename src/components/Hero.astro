@@ -1,0 +1,14 @@
+---
+const { title } = Astro.props
+---
+
+<section class="w-full flex flex-col gap-8 mb-16 sm:mb-24">
+  {
+    title && (
+      <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">
+        {title}
+      </h1>
+    )
+  }
+  <slot />
+</section>

@@ -1,0 +1,74 @@
+---
+import type { CollectionEntry } from "astro:content"
+import { getCollection } from "astro:content"
+import BaseLayout from "@layouts/BaseLayout.astro"
+import Button from "@components/Button.astro"
+import Hero from "@components/Hero.astro"
+import HeroImage from "@components/HeroImage.astro"
+import PostPreview from "@components/PostPreview.astro"
+import PublicationPreview from "@components/PublicationPreview.astro"
+import siteConfig from "@data/site-config"
+import { sortItemsByDateDesc } from "@utils/data-utils"
+import heroImage from "@assets/hero.jpg"
+
+type ArtikelEntry = CollectionEntry<"artikel">
+type PublikationEntry = CollectionEntry<"publikationen">
+const posts = (await getCollection("artikel"))
+  .sort(sortItemsByDateDesc)
+  .slice(0, 8)
+const publications = (await getCollection("publikationen")).slice(0, 8)
+---
+
+<BaseLayout description={siteConfig.description}>
+  <Hero title="Nachrichten aus der Vergangenheit in Deutsch übersetzt">
+    <HeroImage
+      src={heroImage}
+      alt="Gescannter Zeitungsartikel mit Albert Einstein rot makiert"
+      caption="Gescannter Zeitungsartikel der New York Times vom 4. Dezember 1948"
+    />
+    <p>
+      Schon im <strong>Jahre 1948</strong> haben Albert Einstein und viele weitere
+      Mitglieder der jüdischen amerikanischen Elite vor den faschistischen Elementen
+      im neuen Staat Israel gewarnt. Als ich den Zeitungsartikel dieses offenen Briefes
+      an die New York Times gelesen habe, musste ich ihn auf Deutsch übersetzen und
+      meiner Mutter zeigen. Ich glaube nicht, dass es sie davon abbringt, die faschistischen
+      Zionisten in Israel zu unterstützen, aber vielleicht hilft einer dieser Artikel
+      jemand anderen.
+    </p>
+    <div class="flex flex-wrap gap-4">
+      <Button href="https://codeberg.org/vergangenheit/archiv"
+        >Hilf mit auf CodeBerg</Button
+      >
+    </div>
+  </Hero>
+  <div class="mb-16 sm:mb-24">
+    <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">
+      Artikel
+    </h2>
+    {
+      posts.map((post: ArtikelEntry) => (
+        <PostPreview post={post} class="mb-10 sm:mb-12" headingLevel="h3" />
+      ))
+    }
+    <div class="mt-12 sm:mt-16">
+      <Button href="/artikel">Alle Artikel ansehen</Button>
+    </div>
+  </div>
+  <div class="mb-16 sm:mb-24">
+    <h2 class="mb-12 text-xl font-serif italic sm:mb-16 sm:text-2xl">
+      Publikationen
+    </h2>
+    {
+      publications.map((post: PublikationEntry) => (
+        <PublicationPreview
+          post={post}
+          class="mb-10 sm:mb-12"
+          headingLevel="h3"
+        />
+      ))
+    }
+    <div class="mt-12 sm:mt-16">
+      <Button href="/publikationen">Alle Publikationen ansehen</Button>
+    </div>
+  </div>
+</BaseLayout>

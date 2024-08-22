@@ -1,0 +1,15 @@
+---
+type Props = { date: Date; precision?: string }
+const { date, precision = "day" } = Astro.props
+
+const format: Intl.DateTimeFormatOptions =
+  precision == "year"
+    ? { year: "numeric" }
+    : precision == "month"
+      ? { year: "numeric", month: "long" }
+      : { year: "numeric", month: "long", day: "numeric" }
+---
+
+<time datetime={date.toISOString()}
+  >{date.toLocaleDateString("de-de", format)}</time
+>

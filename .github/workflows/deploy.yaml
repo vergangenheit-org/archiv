@@ -1,0 +1,40 @@
+name: deploy
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: cachix/install-nix-action@v23
+      - uses: cachix/cachix-action@v12
+        with:
+          name: devenv
+      - name: devenv.sh
+        run: nix profile install tarball+https://install.devenv.sh/latest
+      - name: build
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{secrets.CLOUDFLARE_ACCOUNT_ID}}
+          CLOUDFLARE_API_TOKEN: ${{secrets.CLOUDFLARE_API_TOKEN}}
+          CLOUDFLARE_BRANCH: ${{vars.CLOUDFLARE_BRANCH}}
+          CLOUDFLARE_PROJECT: ${{vars.CLOUDFLARE_PROJECT}}
+        run: |
+          # going into temp folder
+          cd /tmp
+          # cloning vergangenheit/archiv repo
+          git clone https://codeberg.org/vergangenheit/archiv --branch=astro
+          # going into repository folder
+          cd archiv/
+          # adding worktree branch master
+          git worktree add src/content/ master
+          # installing dependencies
+          devenv shell bun install
+          # building the website
+          devenv shell bun run build
+          # deploying the website
+          devenv shell deploy

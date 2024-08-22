@@ -1,0 +1,58 @@
+---
+import type { GetStaticPathsOptions, Page } from "astro"
+import { type CollectionEntry, getCollection } from "astro:content"
+import BaseLayout from "@layouts/BaseLayout.astro"
+import Pagination from "@components/Pagination.astro"
+import PostPreview from "@components/PostPreview.astro"
+import Subscribe from "@components/Subscribe.astro"
+import siteConfig from "@data/site-config"
+import {
+  sortItemsByName,
+  sortItemsByDateDesc,
+  getPostsByPublication,
+} from "@utils/data-utils"
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  const posts = (await getCollection("artikel")).sort(sortItemsByDateDesc)
+  const publications = (await getCollection("publikationen")).sort(
+    sortItemsByName
+  )
+
+  return publications.flatMap(
+    (publication: CollectionEntry<"publikationen">) => {
+      const filteredPosts = getPostsByPublication(posts, publication.slug)
+      return paginate(filteredPosts, {
+        params: { slug: publication.slug },
+        pageSize: siteConfig.postsPerPage || 4,
+      })
+    }
+  )
+}
+
+type Props = { page: Page<CollectionEntry<"artikel">> }
+
+const { page } = Astro.props
+const data = page.data
+const { slug } = Astro.params
+const allPublications = await getCollection("publikationen")
+const currentPublication = allPublications.find(
+  (publication: CollectionEntry<"publikationen">) => {
+    return publication.slug === slug
+  }
+)
+---
+
+<BaseLayout
+  title={`Artikel von ${currentPublication?.data.name}`}
+  description={`Entdecke eine Sammlung von ${currentPublication?.data.name} Artikel`}
+  showHeader={false}
+>
+  <h1
+    class="mb-12 font-serif text-2xl italic leading-tight sm:mb-16 sm:text-4xl"
+  >
+    Artikel von "{currentPublication?.data.name}"
+  </h1>
+  {data.map((post) => <PostPreview post={post} class="mb-10 sm:mb-12" />)}
+  <Pagination page={page} class="my-16 sm:my-24" />
+  <Subscribe class="my-16 sm:my-24" />
+</BaseLayout>

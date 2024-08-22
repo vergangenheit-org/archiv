@@ -1,0 +1,59 @@
+---
+import { type CollectionEntry } from "astro:content"
+import FormattedDate from "./FormattedDate.astro"
+import { slugify } from "@utils/common-utils"
+import { getReadingTime } from "@utils/reading-time"
+
+type Props = {
+  post: CollectionEntry<"artikel">
+  class: string
+  short?: boolean
+}
+
+const { post, class: className, short } = Astro.props
+const {
+  publication,
+  publishedDate,
+  publishedPrecision,
+  translatedDate,
+  source,
+} = post.data
+const readingTime = getReadingTime(post.body)
+---
+
+<aside class:list={["flex flex-wrap items-center gap-x-4", className]}>
+  {
+    (short && <span>{publication}</span>) || (
+      <a
+        class="hover:underline decoration-dashed"
+        href={`/publikationen/${slugify(publication)}`}
+      >
+        {publication}
+      </a>
+    )
+  }
+  <FormattedDate date={publishedDate} precision={publishedPrecision} />
+  {
+    !short && (
+      <span>
+        Übersetzt am <FormattedDate date={translatedDate} />
+      </span>
+    )
+  }
+  <span>{readingTime}</span>
+  {
+    !short && (
+      <span>
+        Quelle:
+        <a
+          href={source.url}
+          target="_blank"
+          rel="noopener noreferrer me"
+          class="hover:underline decoration-dashed"
+        >
+          {source.name}
+        </a>
+      </span>
+    )
+  }
+</aside>

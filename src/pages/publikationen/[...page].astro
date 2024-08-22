@@ -1,0 +1,60 @@
+---
+import type { GetStaticPathsOptions, Page } from "astro"
+import { type CollectionEntry, getCollection } from "astro:content"
+import ArrowRight from "../../icons/ArrowRight.astro"
+import BaseLayout from "../../layouts/BaseLayout.astro"
+import Pagination from "../../components/Pagination.astro"
+import Subscribe from "../../components/Subscribe.astro"
+import siteConfig from "../../data/site-config"
+import {
+  sortItemsByDateDesc,
+  getPostsByPublication,
+} from "../../utils/data-utils"
+
+const posts = (await getCollection("artikel")).sort(sortItemsByDateDesc)
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  const publications = await getCollection("publikationen")
+  return paginate(publications, { pageSize: siteConfig.postsPerPage || 4 })
+}
+
+type Props = { page: Page<CollectionEntry<"publikationen">> }
+
+const { page } = Astro.props
+---
+
+<BaseLayout
+  title="Publikationen Archiv"
+  description="Begib dich auf eine Reise in längst vergessenen Zeitungsartikeln jetzt auf Deutsch übersetzt."
+  showHeader={false}
+>
+  <h1
+    class="mb-12 font-serif text-2xl italic leading-tight sm:mb-16 sm:text-4xl"
+  >
+    Publikationen Archiv
+  </h1>
+  {
+    page.data.map((publication) => {
+      const postCount = getPostsByPublication(posts, publication.slug).length
+      return (
+        <a
+          class="group mb-10 flex items-start justify-between gap-8 sm:mb-12"
+          href={`/publikationen/${publication.slug}`}
+        >
+          <div class="grow">
+            <h2 class="font-serif text-xl font-medium leading-tight group-hover:underline group-hover:decoration-dashed group-hover:decoration-1 group-hover:underline-offset-4 sm:text-2xl">
+              {publication.data.name}
+            </h2>
+            <p class="leading-tigh text-sm">{publication.data.description}</p>
+            <div class="mt-1 text-sm leading-normal">{postCount} Artikel</div>
+          </div>
+          <div class="hidden font-serif italic opacity-0 transition group-hover:opacity-100 sm:inline-flex sm:shrink-0 sm:items-center sm:gap-1">
+            Im Publikationen Archiv Ansehen{" "}
+            <ArrowRight class="h-4 w-4 fill-current" />
+          </div>
+        </a>
+      )
+    })
+  }
+  <Pagination page={page} class="my-16 sm:my-24" />
+  <Subscribe class="my-16 sm:my-24" />
+</BaseLayout>

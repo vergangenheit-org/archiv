@@ -1,0 +1,20 @@
+---
+import { Image } from "astro:assets"
+const { src, alt, caption } = Astro.props
+---
+
+<figure>
+  <Image
+    class="w-full"
+    loading="eager"
+    src={src}
+    widths={[280, 640, 768]}
+    sizes={`(max-width: 360px) 280px, (max-width: 720px) 640px, (max-width: 1600px) 768px`}
+    alt={alt}
+  />
+  {
+    caption && (
+      <figcaption class="mt-1.5 text-xs sm:text-sm">{caption}</figcaption>
+    )
+  }
+</figure>
