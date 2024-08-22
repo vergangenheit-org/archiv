@@ -37,6 +37,12 @@ authors: []
 
 # 284. Intelligence Memorandum, erstellt von der Central Intelligence Agency[^1]
 
+:::important
+Zeugenaussagen von Veteranen der USS Liberty widerlegen dieses Memorandum. Der Staat New Hampshire hielt am 12. Januar 2024 ein Gremium, wo Überlebende dieses Vorfalles um eine Kommission zur Untersuchung dieser israelischen Attacke ansuchten.
+
+[USS Liberty-Veteranen sagen im Staat „Live Free or Die“ aus](/artikel/washington-report-on-middle-east-affairs/uss-liberty-veteranen-sagen-im-staat-live-free-or-die-aus)
+:::
+
 ## DER ISRAELISCHE ANGRIFF AUF DIE USS LIBERTY
 
 Das technische Forschungsschiff der US-Marine, die Liberty, wurde am 8. Juni vor der Sinai-Halbinsel von israelischen Flugzeugen und Torpedobooten angegriffen. Der folgende Bericht über die Umstände des Angriffs wurde aus allen verfügbaren Quellen zusammengestellt.
