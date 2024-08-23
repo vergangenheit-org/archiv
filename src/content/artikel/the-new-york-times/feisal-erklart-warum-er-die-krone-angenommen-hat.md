@@ -39,7 +39,8 @@ tags:
 source:
   name: "The Middle East Collection (Seiten 27-28)"
   url: "https://archive.org/details/middleeast0000unse_t6f0/page/27/mode/1up"
-authors: []
+authors:
+  - "Edwin I. James"
 ---
 
 # Feisal erklärt, warum er die Krone angenommen hat
