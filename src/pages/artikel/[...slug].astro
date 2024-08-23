@@ -54,7 +54,7 @@ const { name, description: summary } = (await getEntry(
       class="mt-8 flex flex-wrap items-center gap-6 text-sm justify-between sm:mt-12 sm:text-base"
     >
       {
-        tags.length > 0 && (
+        tags.sort().length > 0 && (
           <div class="flex flex-wrap gap-x-5 gap-y-1 text-sm">
             {tags.map((tag: string) => (
               <a
