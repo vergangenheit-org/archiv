@@ -3,7 +3,7 @@ title: "Die Bibel und das Land"
 publishedDate: 2017-06-16
 translatedDate: 2024-08-23
 description: "Der Artikel untersucht die biblische Perspektive auf Land und Identität. Er argumentiert, dass das Land Gott gehört und dass die Menschen als Verwalter Gottes auf der Erde dienen. Die Grenzen des Gelobten Landes werden diskutiert, und es wird betont, dass das Land nicht einfach ein Besitz, sondern ein Auftrag ist. Gerechtigkeit wird als zentrale Voraussetzung für das Wohnen im Land hervorgehoben. Die Konfiszierung von Land wird als unrechtmäßig verurteilt, und die Bedeutung von Gerechtigkeit für das biblische Verständnis von Land und Identität wird betont. Schließlich wird die Frage gestellt, wer in der Bibel als Israel gilt, und es wird argumentiert, dass Israel nicht ausschließlich durch Ethnie definiert wird."
-publication: "Bethlehem Bibel College"
+publication: "Bethlehem Bible College"
 tags:
   - Israel
   - Palästina
