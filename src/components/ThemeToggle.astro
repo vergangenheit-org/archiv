@@ -1,7 +1,14 @@
+---
+import type { HTMLAttributes } from "astro/types"
+type Props = HTMLAttributes<"button">
+const { class: className, ...props } = Astro.props
+---
+
 <button
   id="theme-toggle"
-  class="w-8 h-8 -mr-2 flex items-center justify-center"
+  class:list={[className, "h-8 w-8 -mr-2 flex items-center justify-center"]}
   aria-label="Change color scheme"
+  {...props}
 >
   <svg
     class="w-4 h-4 fill-current"
