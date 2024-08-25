@@ -137,7 +137,6 @@
 </template>
 
 <script>
-import { debounce } from "lodash"
 import { ref, onMounted, onUnmounted, nextTick } from "vue"
 import {
   Dialog,
@@ -170,6 +169,16 @@ export default {
     const results = ref([])
     const resultsRefs = ref([])
     const selectedIdx = ref(0)
+
+    const debounce = (callback, wait) => {
+      let timeoutId = null
+      return (...args) => {
+        window.clearTimeout(timeoutId)
+        timeoutId = window.setTimeout(() => {
+          callback(...args)
+        }, wait)
+      }
+    }
 
     function onKeyDown(evt) {
       if (isOpen.value) return
