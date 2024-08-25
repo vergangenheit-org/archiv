@@ -1,13 +1,14 @@
 import { defineConfig } from "astro/config"
+import { readFileSync } from "fs"
+import { directives, figure } from "./src/plugins/index"
+import { blackAndWhite } from "./src/plugins/openGraphRenderer"
 import mdx from "@astrojs/mdx"
 import sitemap from "@astrojs/sitemap"
 import tailwind from "@astrojs/tailwind"
 import opengraphImages from "astro-opengraph-images"
 import rehypeExternalLinks from "rehype-external-links"
 import remarkDirective from "remark-directive"
-import { readFileSync } from "fs"
-import { directives, figure } from "./src/plugins/index"
-import { blackAndWhite } from "./src/plugins/openGraphRenderer"
+import vue from "@astrojs/vue"
 
 import type { ElementContent } from "hast"
 
@@ -16,6 +17,7 @@ export default defineConfig({
   site: "https://vergangenheit.org",
   integrations: [
     mdx(),
+    vue(),
     sitemap(),
     tailwind({
       applyBaseStyles: false,

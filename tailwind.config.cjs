@@ -3,7 +3,7 @@ const defaultTheme = require("tailwindcss/defaultTheme")
 module.exports = {
   content: [
     "./astro.config.ts",
-    "./src/**/*.{astro,html,js,jsx,md,mdx,ts,tsx}",
+    "./src/**/*.{astro,vue,html,js,jsx,md,mdx,ts,tsx}",
     "./src/content/**/*.{md,mdx}",
   ],
   darkMode: "class",
