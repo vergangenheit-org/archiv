@@ -3,6 +3,7 @@ import { type CollectionEntry } from "astro:content"
 import FormattedDate from "./FormattedDate.astro"
 import { slugify } from "@utils/common-utils"
 import { getReadingTime } from "@utils/reading-time"
+import { getLastModifiedDate } from "@utils/last-modified"
 
 type Props = {
   post: CollectionEntry<"artikel">
@@ -18,7 +19,9 @@ const {
   translatedDate,
   source,
 } = post.data
+const filepath = `src/content/${post.collection}/${post.id}`
 const readingTime = getReadingTime(post.body)
+const lastModifiedDate = getLastModifiedDate(filepath)
 ---
 
 <aside class:list={["flex flex-wrap items-center gap-x-4", className]}>
@@ -38,6 +41,16 @@ const readingTime = getReadingTime(post.body)
       <span>
         Übersetzt am <FormattedDate date={translatedDate} />
       </span>
+    )
+  }
+  {
+    !short && (
+      <a
+        class="hover:underline decoration-dashed"
+        href={`https://codeberg.org/vergangenheit/archiv/commits/branch/master/${filepath}`}
+      >
+        Geändert am <FormattedDate date={lastModifiedDate} />
+      </a>
     )
   }
   <span>{readingTime}</span>
