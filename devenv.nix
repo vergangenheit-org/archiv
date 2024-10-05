@@ -28,8 +28,7 @@
 
   scripts = {
     astro.exec = "bunx --bun astro $@";
-    prettier.exec = "bunx --bun prettier $@";
-    wrangler.exec = "bunx --bun wrangler $@";
-    deploy.exec = "wrangler pages deploy --project-name=$CLOUDFLARE_PROJECT --branch=$CLOUDFLARE_BRANCH dist/";
+    prettier.exec = "bun run prettier $@";
+    deploy.exec = "bun run wrangler pages deploy --project-name=$CLOUDFLARE_PROJECT --branch=$CLOUDFLARE_BRANCH dist/";
   };
 }
