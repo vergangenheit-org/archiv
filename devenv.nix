@@ -1,11 +1,8 @@
-{ pkgs, ... }:
 {
   dotenv.enable = true;
 
   languages.javascript.enable = true;
   languages.javascript.bun.enable = true;
-
-  packages = with pkgs; [ nodePackages.prettier nodePackages.wrangler ];
 
   pre-commit.hooks = {
     astro-check = {
@@ -30,7 +27,9 @@
   };
 
   scripts = {
-    astro.exec = "bunx --bun astro \"$@\"";
+    astro.exec = "bunx --bun astro $@";
+    prettier.exec = "bunx --bun prettier $@";
+    wrangler.exec = "bunx --bun wrangler $@";
     deploy.exec = "wrangler pages deploy --project-name=$CLOUDFLARE_PROJECT --branch=$CLOUDFLARE_BRANCH dist/";
   };
 }
