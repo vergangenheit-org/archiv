@@ -136,7 +136,7 @@
   </TransitionRoot>
 </template>
 
-<script>
+<script is:inline>
 import { ref, onMounted, onUnmounted, nextTick } from "vue"
 import {
   Dialog,
