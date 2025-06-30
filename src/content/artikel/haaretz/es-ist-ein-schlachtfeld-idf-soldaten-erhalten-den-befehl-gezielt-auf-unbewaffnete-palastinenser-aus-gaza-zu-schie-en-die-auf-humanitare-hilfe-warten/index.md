@@ -1,7 +1,7 @@
 ---
 title: "„Es ist ein Schlachtfeld“: IDF-Soldaten erhalten den Befehl, gezielt auf unbewaffnete Palästinenser aus Gaza zu schießen, die auf humanitäre Hilfe warten."
 publishedDate: 06-27-25
-translatedDate: 06-29-25
+translatedDate: 06-30-25
 description: 'Ein Bericht über schwerwiegende Vorwürfe gegen die israelischen Streitkräfte (IDF) im Gazastreifen. Laut Aussagen von IDF-Offizieren und Soldaten haben Kommandeure den Befehl erteilt, gezielt auf unbewaffnete palästinensische Zivilisten zu schießen, die an Lebensmittelverteilungsstellen auf humanitäre Hilfe warteten, obwohl diese keine Bedrohung darstellten. Seit Ende Mai 2025 sollen bei solchen Vorfällen rund um die Verteilungszentren der Gaza Humanitarian Foundation (GHF) über 549 Menschen getötet und mehr als 4.000 verletzt worden sein. Soldaten beschreiben den Einsatz von schweren Waffen gegen hungrige Zivilisten als "Schlachtfeld" und sprechen von einem "völligen Zusammenbruch der ethischen Grundsätze". Die Militärstaatsanwaltschaft hat eine Untersuchung wegen möglicher Kriegsverbrechen eingeleitet, während Premierminister Netanyahu und Verteidigungsminister Katz die Vorwürfe als "Blutverleumdungen" zurückweisen.'
 publication: "Haaretz"
 tags:
@@ -141,6 +141,8 @@ Nun sagt ein Offizier der Division, Vach habe beschlossen, Versammlungen von Pal
 
 Vachs Division ist nicht die einzige, die in diesem Gebiet operiert. Sie ist für den Norden Gazas zuständig, daher betrifft Vachs Politik diejenigen, die UN-Hilfsgüterlastwagen plündern, und nicht die GHF-Standorte.
 
+[![Video auf X ansehen](./video-1.jpg) Video auf X ansehen](https://twitter.com/gazanotice/status/1927413223239668119)
+
 Ein Panzersoldat der Reserve, der kürzlich bei der Division 252 im Norden Gazas gedient hat, bestätigte die Berichte und erklärte das „Abschreckungsverfahren“ der IDF zur Auflösung von Menschenansammlungen, die gegen militärische Anordnungen verstoßen.
 
 „Die Teenager, die auf die Lastwagen warten, verstecken sich hinter Erdhügeln und stürmen auf sie zu, wenn sie vorbeifahren oder an Verteilungsstellen anhalten“, sagte er. „Wir sehen sie normalerweise schon aus Hunderten von Metern Entfernung; es ist keine Situation, in der sie eine Bedrohung für uns darstellen.“
@@ -148,6 +150,8 @@ Ein Panzersoldat der Reserve, der kürzlich bei der Division 252 im Norden Gazas
 In einem Fall wurde der Soldat angewiesen, eine Granate auf eine Menschenmenge abzufeuern, die sich in der Nähe der Küste versammelt hatte. „Technisch gesehen soll es sich um Warnschüsse handeln – entweder um die Menschen zurückzudrängen oder sie daran zu hindern, weiter vorzustoßen“, sagte er. „Aber in letzter Zeit ist das Abfeuern von Granaten einfach zur gängigen Praxis geworden. Jedes Mal, wenn wir schießen, gibt es Verletzte und Tote, und wenn jemand fragt, warum eine Granate notwendig ist, gibt es nie eine gute Antwort. Manchmal ärgert es die Kommandeure schon, wenn man nur die Frage stellt.“
 
 In diesem Fall begannen einige Menschen nach dem Abfeuern der Granate zu fliehen, und laut dem Soldaten eröffneten andere Streitkräfte daraufhin das Feuer auf sie. „Wenn es ein Warnschuss sein soll und wir sehen, dass sie zurück nach Gaza laufen, warum schießen wir dann auf sie?“, fragte er. „Manchmal wird uns gesagt, dass sie sich noch verstecken und wir in ihre Richtung schießen müssen, weil sie nicht weggegangen sind. Aber es ist offensichtlich, dass sie nicht weggehen können, wenn wir in dem Moment, in dem sie aufstehen und weglaufen, das Feuer eröffnen.“
+
+[![Video auf X ansehen](./video-2.jpg) Video auf X ansehen](https://twitter.com/gazanotice/status/1935354239108174125)
 
 Der Soldat sagte, dies sei zur Routine geworden. „Man weiß, dass es nicht richtig ist. Man spürt, dass es nicht richtig ist – dass die Kommandeure hier das Gesetz in ihre eigenen Hände nehmen. Aber Gaza ist ein Paralleluniversum. Man macht schnell weiter. Die Wahrheit ist, dass die meisten Menschen nicht einmal innehalten, um darüber nachzudenken.“
 
@@ -166,6 +170,8 @@ Ihm zufolge „ist meine größte Befürchtung, dass die Schüsse und die Verlet
 In den letzten Wochen ist die Zahl der Todesopfer in der Nähe von Lebensmittelverteilungsstellen stark gestiegen – laut dem Gesundheitsministerium von Gaza waren es 57 am 11. Juni, 59 am 17. Juni und etwa 50 am 24. Juni. Als Reaktion darauf fand im Südkommando eine Diskussion statt, bei der sich herausstellte, dass die Truppen begonnen hatten, Menschenmengen mit Artilleriegeschossen zu zerstreuen.
 
 „Sie sprechen über den Einsatz von Artillerie an einer Kreuzung voller Zivilisten, als wäre das ganz normal“, sagte eine Militärquelle, die an dem Treffen teilgenommen hatte. „Es wurde ausschließlich darüber diskutiert, ob der Einsatz von Artillerie richtig oder falsch ist, ohne überhaupt zu fragen, warum diese Waffe überhaupt benötigt wurde. Alle sind nur besorgt darüber, ob es unserer Legitimität schaden könnte, wenn wir unsere Operationen in Gaza fortsetzen. Der moralische Aspekt spielt praktisch keine Rolle. Niemand hält inne, um zu fragen, warum jeden Tag Dutzende Zivilisten auf der Suche nach Nahrung getötet werden.“
+
+[![Video auf X ansehen](./video-3.jpg) Video auf X ansehen](https://twitter.com/gazanotice/status/1929066494769639634)
 
 Ein anderer hochrangiger Offizier, der mit den Kämpfen in Gaza vertraut ist, sagte, dass die Normalisierung der Tötung von Zivilisten oft dazu geführt habe, dass in der Nähe von Hilfsgüterverteilungszentren auf sie geschossen werde.
 
