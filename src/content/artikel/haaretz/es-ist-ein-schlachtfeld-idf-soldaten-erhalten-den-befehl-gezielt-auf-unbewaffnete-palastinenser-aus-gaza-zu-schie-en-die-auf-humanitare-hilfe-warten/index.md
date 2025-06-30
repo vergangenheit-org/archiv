@@ -2,9 +2,58 @@
 title: "„Es ist ein Schlachtfeld“: IDF-Soldaten erhalten den Befehl, gezielt auf unbewaffnete Palästinenser aus Gaza zu schießen, die auf humanitäre Hilfe warten."
 publishedDate: 06-27-25
 translatedDate: 06-29-25
-description: ""
+description: 'Ein Bericht über schwerwiegende Vorwürfe gegen die israelischen Streitkräfte (IDF) im Gazastreifen. Laut Aussagen von IDF-Offizieren und Soldaten haben Kommandeure den Befehl erteilt, gezielt auf unbewaffnete palästinensische Zivilisten zu schießen, die an Lebensmittelverteilungsstellen auf humanitäre Hilfe warteten, obwohl diese keine Bedrohung darstellten. Seit Ende Mai 2025 sollen bei solchen Vorfällen rund um die Verteilungszentren der Gaza Humanitarian Foundation (GHF) über 549 Menschen getötet und mehr als 4.000 verletzt worden sein. Soldaten beschreiben den Einsatz von schweren Waffen gegen hungrige Zivilisten als "Schlachtfeld" und sprechen von einem "völligen Zusammenbruch der ethischen Grundsätze". Die Militärstaatsanwaltschaft hat eine Untersuchung wegen möglicher Kriegsverbrechen eingeleitet, während Premierminister Netanyahu und Verteidigungsminister Katz die Vorwürfe als "Blutverleumdungen" zurückweisen.'
 publication: "Haaretz"
-tags: []
+tags:
+  - IDF
+  - IsraelischeStreitkräfte
+  - Division252
+  - Südkommando
+  - Generalstab
+  - Militärstaatsanwaltschaft
+  - FactFindingAssessmentMechanism
+  - OperationSaltedFish
+  - Schnellverteilungszentren
+  - Mahpazim
+  - NetzarimKorridor
+  - BenjaminNetanyahu
+  - IsraelKatz
+  - BrigadegeneralYehudaVach
+  - GeneralmajorYanivAsor
+  - GazaHumanitarianFoundation
+  - Hamas
+  - AbuShababMiliz
+  - VereinteNationen
+  - Gazastreifen
+  - FlüchtlingslagerNuseirat
+  - KhanYounis
+  - BeitLahia
+  - SalahAlDinStraße
+  - SchwereMaschinengewehre
+  - Granatwerfer
+  - Mörser
+  - Panzer
+  - Scharfschützen
+  - Artillerie
+  - Drohnen
+  - Kriegsverbrechen
+  - Kriegsrecht
+  - Blutverleumdungen
+  - VerstößeGegenDasKriegsrecht
+  - HumanitäreHilfe
+  - Hilfsgüterverteilung
+  - Lebensmittelverteilungsstellen
+  - Hilfszentren
+  - Zivilbevölkerung
+  - Nichtkombattanten
+  - Schlachtfeld
+  - EthischeGrundsätze
+  - Abschreckungsverfahren
+  - Warnschüsse
+  - ScharfeMunition
+  - Kampfzone
+  - Paralleluniversum
+  - InternationaleLegitimität
 source:
   name: "„Es ist ein Schlachtfeld“: IDF-Soldaten erhalten den Befehl, gezielt auf unbewaffnete Palästinenser aus Gaza zu schießen, die auf humanitäre Hilfe warten."
   url: "https://archive.is/IsJjQ"
